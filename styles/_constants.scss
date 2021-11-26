@@ -1,0 +1,8 @@
+$backgroundcolor:#97d279;
+$boxshadowcolor:rgba(0, 0, 0, 0.75);
+$padding:20px;
+
+@mixin width () {
+  max-width:700px;
+  text-align:center;  
+}
